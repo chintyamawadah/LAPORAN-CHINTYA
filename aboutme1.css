@@ -1,0 +1,31 @@
+.chintya{
+    color: rgb(8, 1, 1);
+    font-family: helvetica;
+  
+}
+ul li{
+    display: inline;
+    background-color: rgba(185, 113, 119, 0.746);
+    margin: 50px 50px 0px 0px;
+    text-decoration: none;
+    font-size: 18px;
+    border: solid 1px black;
+    padding: 10px 20px;
+    float: right;
+    color: black;
+    box-shadow: 2px 2px 2px black;
+
+
+
+}
+body{
+    background-image: url(awan.gif) ;
+    width: 100%;
+    background-color: rgba(15, 37, 11, 0.76);
+    margin: auto;
+    background-size: 110%;
+    
+
+}
+    
+   

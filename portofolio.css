@@ -1,0 +1,62 @@
+.navbar{
+    width : 100%;
+    padding : 15px;
+}
+    
+span{
+    font-size: 25px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-body{
+    width : 95%;
+    padding: 20px;
+    background-color: rgba(32, 32, 31, 0.37);
+}  
+.nav-body ul {
+   margin:0;
+   padding:0;
+   float: right;
+}
+.nav-body li {
+    display: inline;
+    font-size: 25px;
+    padding : 10px;
+}
+a{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline;
+}
+body{
+    margin: 0;
+    width: 100%;
+    background-image: url(alang.jpg_large);
+    background-size: 50%;
+    
+}
+.content{
+    width: 40%;
+    background-color: rgba(20, 20, 20, 0.472);
+    margin: auto;
+    padding: 120px 80px;
+    height: 100px;
+    
+    
+}
+h1{
+    font-family: helvetica;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+
+}
+h1{
+    font-family: helvetica;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+
+}
+
+
